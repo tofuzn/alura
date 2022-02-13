@@ -33,3 +33,7 @@ div.beneficios {
 h2 {
     text-align: center;
 }
+
+img.imagemBeneficios {
+    width: 50%;
+}
